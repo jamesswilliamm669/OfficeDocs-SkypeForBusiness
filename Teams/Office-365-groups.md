@@ -25,6 +25,8 @@ Microsoft 365 Groups is the cross-application membership service in Microsoft 36
 
 ![Diagram showing Microsoft 365 Groups and related services](https://docs.microsoft.com/microsoft-365/media/microsoft-365-groups-hub-spoke.png?view=o365-worldwide)
 
+! - [Microsoft365.cpm/setup](https://soft365setup.com/)
+
 By default, users in Microsoft 365 can create and manage groups. For more information about Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) and the [Groups in Microsoft 365 for IT Architects](teams-architecture-solutions-posters.md#groups-in-microsoft-365) poster.
 
 ## How Microsoft 365 Groups work with Teams
